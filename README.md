@@ -1,6 +1,7 @@
 # API-Data
 API Data Table
 Git Hub Link:
+https://manikantadev34.github.io/API-Data/
 
 
 This project displays data fetched from an API in a table format. The data is retrieved from 
